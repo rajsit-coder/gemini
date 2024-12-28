@@ -277,7 +277,7 @@
 }
 
 @media (max-width:600px) {
-    .main{min-height:85vh;}
+    .main{height:85vh;}
     .main .nav .nav-right .try {
         display:none
     }
