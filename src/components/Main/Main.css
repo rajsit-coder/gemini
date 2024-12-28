@@ -277,6 +277,12 @@
 }
 
 @media (max-width:600px) {
+    .main .nav .nav-right .try {
+        display:none
+    }
+        .main .nav .nav-right .dot {
+        display:none
+    }
     .main .greet {
         margin: 200px 0px;
     }
